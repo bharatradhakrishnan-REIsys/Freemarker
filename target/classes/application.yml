@@ -1,0 +1,9 @@
+# application.yml
+
+spring:
+   mail:
+       host: st-mail-01.reisys.com
+       port: 25
+       ##username:
+       ##password:
+     
